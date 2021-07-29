@@ -3,7 +3,7 @@ import ProductList from './Products.json';
 
 const Product = () => {
     return(
-        <div>Product</div>
+        <div className="product-container">Product</div>
     )
 }
 
